@@ -13,6 +13,9 @@ This project is a distributed networking system implementing a special kind of p
 
 Client interfaces are web applications using Flask.
 
+## Diagram
+<img src="diagram.png" alt="Alt text" title="Diagram ">
+
 ## How to Use
 
 ### Create a new virtual environment and install the required libraries.
